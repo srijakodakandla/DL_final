@@ -1,0 +1,7 @@
+streamit==1.23.1
+pandas
+numpy
+pickle-mixin
+plotly
+torch
+torchvision
